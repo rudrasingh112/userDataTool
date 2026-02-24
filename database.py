@@ -3,7 +3,7 @@ from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy.ext.declarative import declarative_base
 
-INSTANCE_CONNECTION_NAME = "gen-lang-client-0906242882:us-central1:adk-user"
+INSTANCE_CONNECTION_NAME = "gen-lang-client-0906242882:us-central1:adk-user-db"
 
 DB_USER = "postgres"
 DB_PASS = "Qwerty%40123"
